@@ -2,7 +2,7 @@
 
 
 
-bashchmod +x setup_focus_monitor.sh
+chmod +x setup_focus_monitor.sh
 
 Initial Setup (Create Password)
 ./setup_focus_monitor.sh
